@@ -1,4 +1,4 @@
-from ShiroNeeBot.utils.http import post
+from Shirobot.utils.http import post
 
 BASE = "https://batbin.me/"
 
