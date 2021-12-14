@@ -4,10 +4,10 @@ import os
 from telethon import events, Button
 from telethon import __version__ as tlhver
 from pyrogram import __version__ as pyrover
-from lunaBot.events import register as MEMEK
-from lunaBot import telethn as tbot
+from Shirobot.events import register as MEMEK
+from Shirobot import telethn as tbot
 
-PHOTO = "https://telegra.ph/file/8c29652140f01b3449895.jpg"
+PHOTO = "https://telegra.ph/file/4fb9af6eb9204c085c7c1.jpg"
 
 @MEMEK(pattern=("/alive"))
 async def awake(event):
@@ -18,7 +18,7 @@ async def awake(event):
   Shiro += "🔴 **Telethon Version : {tlhver}** \n\n"
   Shiro += "🔴 **Pyrogram Version : {pyrover}** \n\n"
   Shiro += "**Thanks For Adding Me Here ❤️**"
-  BUTTON = [[Button.url("ʜᴇʟᴘ", "https://t.me/shiro_robot?start=help"), Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/Shirosupportgroup")]]
+  BUTTON = [[Button.url("ʜᴇʟᴘ", "https://t.me/shironeebot?start=help"), Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/Shirosupportgroup")]]
   await tbot.send_file(event.chat_id, PHOTO, caption=Shiro,  buttons=BUTTON)
 
 @MEMEK(pattern=("/reload"))
