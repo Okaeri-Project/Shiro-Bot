@@ -39,14 +39,14 @@ class Config(object):
 
     # OPTIONAL
     ##List of id's -  (not usernames) for users which have sudo access to the bot.
-    DRAGONS = get_user_list("elevated_users.json", "2083606760,1938466384")
+    DRAGONS = get_user_list("elevated_users.json", "2083606760 , 1938466384")
     ##List of id's - (not usernames) for developers who will have the same perms as the owner
-    DEV_USERS = get_user_list("elevated_users.json", "2083606760,1938466384")
+    DEV_USERS = get_user_list("elevated_users.json", "2083606760 , 1938466384")
     ##List of id's (not usernames) for users which are allowed to gban, but can also be banned.
-    DEMONS = get_user_list("elevated_users.json", "2083606760,1938466384")
+    DEMONS = get_user_list("elevated_users.json", "2083606760 , 1938466384")
     # List of id's (not usernames) for users which WONT be banned/kicked by the bot.
-    TIGERS = get_user_list("elevated_users.json", "2083606760,1938466384")
-    WOLVES = get_user_list("elevated_users.json", "2083606760,1938466384")
+    TIGERS = get_user_list("elevated_users.json", "2083606760 , 1938466384")
+    WOLVES = get_user_list("elevated_users.json", "2083606760 , 1938466384")
     DONATION_LINK = None  # EG, paypal
     CERT_PATH = None
     PORT = 5000
