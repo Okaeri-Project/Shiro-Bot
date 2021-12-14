@@ -63,3 +63,13 @@
 
 - [Zen](https://github/Wahyu213) ``Dev/Owner``
 - [Rey](https://github/HELZRIP) ``Dev``
+
+
+
+
+Edit Config.py with your own Values
+
+Start with ```python -m Shirobot```
+
+</details>    
+
