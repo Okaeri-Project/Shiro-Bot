@@ -37,7 +37,8 @@ This Bot is Created by Zenproject, If your kanging this without fork at least gi
 
   ```
   
-  ## Credits Shiro-Bot💫
+  
+  ### Credits Shiro-Bot💫
 
 - [Zen](https://github/Wahyu213) ``Dev/Owner``
 - [Rey](https://github/HELZRIP) ``Dev``
