@@ -5,7 +5,7 @@ import re
 from sys import argv
 from typing import Optional
 
-from EmiliaAnimeBot import (ALLOW_EXCL, CERT_PATH, DONATION_LINK, LOGGER,
+from Shirobot import (ALLOW_EXCL, CERT_PATH, DONATION_LINK, LOGGER,
                           OWNER_ID, PORT, SUPPORT_CHAT, TOKEN, URL, WEBHOOK,
                           dispatcher, StartTime, telethn, updater, pgram, BOT_USERNAME, BOT_NAME)
 
