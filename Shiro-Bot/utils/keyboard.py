@@ -1,7 +1,7 @@
 from pykeyboard import InlineKeyboard
 from pyrogram.types import InlineKeyboardButton as Ikb
 
-from ShiroNeeBot.utils.functions import get_urls_from_text as is_url
+from Shirobot.utils.functions import get_urls_from_text as is_url
 
 
 def keyboard(buttons_list, row_width: int = 2):
