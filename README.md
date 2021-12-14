@@ -65,11 +65,30 @@
 - [Rey](https://github/HELZRIP) ``Dev``
 
 
+</p>
 
+```console
+    Shiro@arch:~$ git clone https://github.com/Wahyu213/Shiro-Bot
+    Shiro@arch:~$ cd Shirobot
+    Shiro@arch:~$ cp sample_config.py config.py
+```
 
 Edit Config.py with your own Values
 
 Start with ```python -m Shirobot```
 
 </details>    
+
+<details>
+     <summary>Deploying On IDE VMs Like Repl.it</summary>
+       <br>
+         <p align="left">
+            <b> 
+
+            Refer to Deploying On Local Machine
+
+ </b>
+</p>
+</details>
+
 
