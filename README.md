@@ -32,9 +32,9 @@
   
   
   ```
-This Bot is Created by Zenproject, If your kanging this without fork at least give a credit to get a smile of my hard work. 
+  This Bot is Created by Zenproject, If your kanging this without fork at least give a credit to get a smile of my hard work. 
 - Shiro-Bot
-
+  ```
  
   
   ### Credits Shiro-Bot💫
