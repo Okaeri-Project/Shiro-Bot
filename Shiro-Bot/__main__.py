@@ -9,7 +9,7 @@ from Shirobot import (ALLOW_EXCL, CERT_PATH, DONATION_LINK, LOGGER,
                           OWNER_ID, PORT, SUPPORT_CHAT, TOKEN, URL, WEBHOOK,
                           dispatcher, StartTime, telethn, updater, pgram, BOT_USERNAME, BOT_NAME)
 
-from Shirobot.resources.imagefiles import EMILIA_START_IMG, EMILIA_HELP_IMG, EMILIA_IMG
+from Shirobot.resources.imagefiles import SHIRO_START_IMG, SHIRO_HELP_IMG, SHIRO_IMG
 from Shirobot.modules import ALL_MODULES
 from Shirobot.modules.helper_funcs.chat_status import is_user_admin
 from Shirobot.modules.helper_funcs.misc import paginate_modules
@@ -84,7 +84,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-          text="✒ Source", url="https://github.com/IzumiCypherX/EmiliaAnimeBot" # If you have a bit of dignity left in you, Do NOT Remove this Button
+          text="✒ Source", url="https://github.com/Wahyu213/Shiro-Bot" # If you have a bit of dignity left in you, Do NOT Remove this Button
         ),
      
     ],
@@ -106,7 +106,7 @@ CHAT_SETTINGS = {}
 USER_SETTINGS = {}
 
 for module_name in ALL_MODULES:
-    imported_module = importlib.import_module("EmiliaAnimeBot.modules." + module_name)
+    imported_module = importlib.import_module("Shirobot.modules." + module_name)
     if not hasattr(imported_module, "__mod_name__"):
         imported_module.__mod_name__ = imported_module.__name__
 
