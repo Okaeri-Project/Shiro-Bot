@@ -1,5 +1,5 @@
 # Shiro-Bot
-Bot Manage With Anime Theme
+
 ![shiro-bot](https://user-images.githubusercontent.com/91831925/145976248-4047bc0f-8f43-4706-ad05-f16b8420f097.jpg)
 </p>
 <h4 align="center">A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
