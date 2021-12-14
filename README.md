@@ -9,6 +9,19 @@
   <a href="https://t.me/ShiroUpdate"><img src="https://img.shields.io/badge/Join-Shiro%20Update-red.svg?logo=Telegram"></a>
   <a href="https://t.me/Shirosupportgroup"><img src="https://img.shields.io/badge/Join-Shiro%20Support-blue.svg?logo=telegram"></a>
   <a href="https://t.me/zenfrans"><img src="https://img.shields.io/badge/Developer-Shiro%20Bot-blue.svg?logo=telegram"></a>
+
+
+### Disclaimer 
+```
+             ⚠️ PERINGATAN UNTUK ANDA ⚠️ ️
+   Flicks-Userbot digunakan untuk membantu aktifitas akun anda di telegram
+   Kami tidak bertanggung jawab atas apa yang anda salah gunakan pada repository ini!
+      Hati hati dalam penggunaan pada repository ini !
+   Jika salah satu member salah gunakan repository ini , kami terpaksa harus melakukan gban kepada anda 
+  Jangan pernah sekali sekali menyalah gunakan repository ini
+```
+
+
   
   
   These are the Things that Tangent Can Help You With:
