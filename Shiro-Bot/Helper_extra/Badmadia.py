@@ -1,4 +1,4 @@
-from ShiroNeeBot import telethn as tbot
+from ShiroBot import telethn as tbot
 import requests
 import time
 
