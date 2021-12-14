@@ -10,6 +10,27 @@
   <a href="https://t.me/Shirosupportgroup"><img src="https://img.shields.io/badge/Join-Shiro%20Support-blue.svg?logo=telegram"></a>
   <a href="https://t.me/zenfrans"><img src="https://img.shields.io/badge/Developer-Shiro%20Bot-blue.svg?logo=telegram"></a>
   
+  
+  These are the Things that Tangent Can Help You With:
+
++ [x] Forks
++ [x] Main Repo Erros/Guidance
++ [ ] Kangs [forks with no trace of original repo are considered kangs]
++ [ ] Deploying Your Bot
+  
+  
+  ### Status
+
++ [x] Maintained
++ [x] Support Group Included
++ [x] Free
++ [x] OpenSourced
++ [x] Working Instance Available
++ [x] Clean Code
++ [x] Docker/Local Machine
++ [x] Heroku Deploy [Visit Support Group For Bypass Method]
+  
+  
   ```
 This Bot is Created by Zenproject, If your kanging this without fork at least give a credit to get a smile of my hard work. 
 - Shiro-Bot
