@@ -26,17 +26,17 @@ from pyrogram.types import (CallbackQuery, InlineKeyboardButton,
                             InputTextMessageContent)
 from search_engine_parser import GoogleSearch
 
-from ShiroNeeBot.extrastuff import SUDOERS
-from ShiroNeeBot import LOG_GROUP_ID
-from ShiroNeeBot import pgram as app 
-from ShiroNeeBot.arqclient import arq
-from ShiroNeeBot.utils.keyboard import ikb
-from ShiroNeeBot.core.tasks import _get_tasks_text, all_tasks, rm_task
-from ShiroNeeBot.core.types import InlineQueryResultCachedDocument
-from ShiroNeeBot.modules.info import get_chat_info, get_user_info
-from ShiroNeeBot.modules.media import download_youtube_audio
-from ShiroNeeBot.utils.functions import test_speedtest
-from ShiroNeeBot.utils.pastebin import paste
+from Shirobot.extrastuff import SUDOERS
+from Shirobot import LOG_GROUP_ID
+from Shirobot import pgram as app 
+from Shirobot.arqclient import arq
+from Shirobot.utils.keyboard import ikb
+from Shirobot.core.tasks import _get_tasks_text, all_tasks, rm_task
+from Shirobot.core.types import InlineQueryResultCachedDocument
+from Shirobot.modules.info import get_chat_info, get_user_info
+from Shirobot.modules.media import download_youtube_audio
+from Shirobot.utils.functions import test_speedtest
+from Shirobot.utils.pastebin import paste
 
 MESSAGE_DUMP_CHAT = LOG_GROUP_ID
 
